@@ -1,7 +1,7 @@
 
 # PDF Splitter
 
-A simple Python script to split multi-page PDFs into individual pages.  
+A simple Python script to split multi-page PDFs into individual pages. This is used for invoices that come in that are all in the same .pdf, or to seperate scanned images  
 Uses a `.env` file to keep folder paths private and configurable.
 
 ---
