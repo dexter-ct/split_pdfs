@@ -7,3 +7,10 @@ __pycache__/
 ECHO is on.
 # Optional: virtual environments
 venv/
+# Environment files
+.env
+info.env
+ECHO is on.
+# Python cache
+__pycache__/
+*.pyc
